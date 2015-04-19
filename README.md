@@ -1,6 +1,7 @@
 ###Eden Zik
 ###Mazes Extra Credit Assignment
 ####v1.0
+###Github Link: [https://github.com/edenzik/mazes](https://github.com/edenzik/mazes)
 
 To Run
 =======
