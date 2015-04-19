@@ -79,7 +79,9 @@ There are many algorithms to redesign a maze, and this one involves depth first 
 Reflection
 =======
 
-This was probably one of the most enjoyable programming assignments I've done. Besides giving me an insight into the actual design of mazes, algorithms which I was not aware existed, it gave me even more practice with Ruby - a skill I gained exclusively from this course.
+This was probably one of the most enjoyable programming assignments I've done. Besides giving me an insight into the actual design of mazes, algorithms which I was not aware existed, it gave me even more practice with Ruby - a skill I gained exclusively from this course. 
+
+Redisinging the Maze properly was hard - but I found a great animation on Wikipedia explaning the process. From that point, it was just a matter of implementation. After the code was done, I focused a lot on making it faster and optimizing the array operations (mostly by the use of caches).
 
 CodeClimate
 --------
