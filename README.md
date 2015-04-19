@@ -76,4 +76,13 @@ Redesign
 
 There are many algorithms to redesign a maze, and this one involves depth first search as well. It works by clearing the array (mutating all values to nil) followed by a sequential traversal of random legal adjacent positions. Every time a position is reached that has not been traversed, it can be marked with either a wall (1) or space (0). If it contains more than 1 adjacent space, it is a wall - otherwise - it is a space. It must be a wall if it in the corner.
 
+Reflection
+=======
 
+This was probably one of the most enjoyable programming assignments I've done. Besides giving me an insight into the actual design of mazes, algorithms which I was not aware existed, it gave me even more practice with Ruby - a skill I gained exclusively from this course.
+
+CodeClimate
+--------
+After an iteration, I have managed to improve my CodeClimate grade to a B (from a C) - a grade based on the complexity of the redesign method. I believe, without sacraficing efficieny (for example, by not caching) it would've been difficult to write this code in a less complex manner. 
+
+Good programming practices were followed throughout - with efficiency being a top priority.
